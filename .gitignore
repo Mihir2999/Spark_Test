@@ -1,2 +1,3 @@
 .venv-spark/
 requirements.txt
+.env
